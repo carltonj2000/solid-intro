@@ -17,6 +17,7 @@ specified in the [history section](#History).
 
 ```bash
 npm i solid-app-router
+@fortawesome/fontawesome-free
 ```
 
 ## History
