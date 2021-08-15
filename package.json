@@ -1,0 +1,23 @@
+{
+  "name": "solid-intro",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7",
+    "vite": "^2.4.4",
+    "vite-plugin-solid": "^2.0.1"
+  },
+  "dependencies": {
+    "solid-app-router": "^0.1.4",
+    "solid-js": "^1.0.7"
+  }
+}
